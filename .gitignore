@@ -1,30 +1,6 @@
-*.gem
-*.rbc
-/.config
-/coverage/
-/InstalledFiles
-/pkg/
-/spec/reports/
-/spec/tmp
-/tmp/
-/test/tmp/
-/test/version_tmp/
-/.bundle/
-/lib/bundler/man/
-
-# rspec failure tracking
-.rspec_status
-
-# Ignore Gemfile.lock
-Gemfile.lock
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
+__pycache__/
+node_modules/
+dist/
+build/
+.env
+*.log
